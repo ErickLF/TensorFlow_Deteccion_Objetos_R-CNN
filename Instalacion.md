@@ -56,3 +56,4 @@ Para corroborar si hemos instalado todo bien corremos la siguiente línea de có
 python object_detection/builders/model_builder_test.py
 ```
 Si todo salio bien nos arrojara un mensaje de que todo ha salido bien.
+![](imagenes/ok.png)
